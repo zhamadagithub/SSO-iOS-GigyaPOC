@@ -1,0 +1,6 @@
+framework module Pods_GigyaPOCTests {
+  umbrella header "Pods-GigyaPOCTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
